@@ -46,3 +46,22 @@ padding: 2px;
     display:block;
 }
 
+.nvbar{
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.content {
+    margin-top: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.content h2 {
+    margin-top: 10px;
+}
+
+.content li {
+    margin-left: 16px;
+}
+
