@@ -1,6 +1,49 @@
+
 .hide{
   display:hidden;
 }
 .show{
   display:show;
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
+body{
+    height: 99vh;
+    width: 99vw;
+}
+.nvbar{
+    height: 5%;
+    width: 100%;
+    border:1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(69, 17, 117);
+    color:whitesmoke;
+}
+#nv-label{
+width: 10%;
+font-weight: bolder;
+padding: 2px;
+}
+.nav-ul{
+    margin-left: 10px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+   
+}
+.nav-ul li{
+    width: 15%;
+    text-decoration: none;
+}
+.nv-a{
+    text-decoration: none;
+    color:whitesmoke;
+}
+
