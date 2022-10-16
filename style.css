@@ -42,3 +42,6 @@ padding: 2px;
 .hide{
     display:hidden;
 }
+.show{
+    display:block;
+}
