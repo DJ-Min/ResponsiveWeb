@@ -14,7 +14,7 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    background-color: rgb(69, 17, 117);
+    background-color: rgb(69, 18, 117);
     color:whitesmoke;
 }
 #nv-label{
